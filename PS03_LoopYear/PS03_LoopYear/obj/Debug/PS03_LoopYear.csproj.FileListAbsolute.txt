@@ -1,0 +1,7 @@
+C:\Users\User\PS03_Malate\PS03_LoopYear\PS03_LoopYear\bin\Debug\PS03_LoopYear.exe.config
+C:\Users\User\PS03_Malate\PS03_LoopYear\PS03_LoopYear\bin\Debug\PS03_LoopYear.exe
+C:\Users\User\PS03_Malate\PS03_LoopYear\PS03_LoopYear\bin\Debug\PS03_LoopYear.pdb
+C:\Users\User\PS03_Malate\PS03_LoopYear\PS03_LoopYear\obj\Debug\PS03_LoopYear.csproj.AssemblyReference.cache
+C:\Users\User\PS03_Malate\PS03_LoopYear\PS03_LoopYear\obj\Debug\PS03_LoopYear.csproj.CoreCompileInputs.cache
+C:\Users\User\PS03_Malate\PS03_LoopYear\PS03_LoopYear\obj\Debug\PS03_LoopYear.exe
+C:\Users\User\PS03_Malate\PS03_LoopYear\PS03_LoopYear\obj\Debug\PS03_LoopYear.pdb
