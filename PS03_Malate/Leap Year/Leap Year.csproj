@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{25D5C871-2639-4FD2-9D8E-7DCBE4DAEC88}</ProjectGuid>
+    <ProjectGuid>{1C89A160-BA46-4462-9EB6-5590C76D8BF6}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PS03_Malate</RootNamespace>
-    <AssemblyName>PS03_Malate</AssemblyName>
+    <RootNamespace>Leap_Year</RootNamespace>
+    <AssemblyName>Leap Year</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

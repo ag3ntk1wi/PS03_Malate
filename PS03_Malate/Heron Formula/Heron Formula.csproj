@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{28935AC1-9F51-4BC6-9697-9ED4F8BC2A2C}</ProjectGuid>
+    <ProjectGuid>{E15D0214-FF52-44EB-8AA5-A483DA172CCA}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>PS03_LoopYear</RootNamespace>
-    <AssemblyName>PS03_LoopYear</AssemblyName>
+    <RootNamespace>Heron_Formula</RootNamespace>
+    <AssemblyName>Heron Formula</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PS03_LoopYear
+namespace PS03_Malate
 {
     public class Program
     {

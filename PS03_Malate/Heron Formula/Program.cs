@@ -8,14 +8,14 @@ namespace PS03_Malate
 {
     public class Program
     {
-      
+
         static void Main(string[] args)
         {
             //Create a function that computes the area of a triangle using Heron’s formula.
 
             double HeronFormula(double s, double a, double b, double c)
             {
-                return Math.Sqrt(s*(s-a)*(s-b)*(s-c));
+                return Math.Sqrt(s * (s - a) * (s - b) * (s - c));
             }
 
             Console.Write("Enter Length of side A: ");

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("PS03_Malate")]
+[assembly: AssemblyTitle("Heron Formula")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("PS03_Malate")]
+[assembly: AssemblyProduct("Heron Formula")]
 [assembly: AssemblyCopyright("Copyright ©  2024")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("25d5c871-2639-4fd2-9d8e-7dcbe4daec88")]
+[assembly: Guid("e15d0214-ff52-44eb-8aa5-a483da172cca")]
 
 // Version information for an assembly consists of the following four values:
 //
